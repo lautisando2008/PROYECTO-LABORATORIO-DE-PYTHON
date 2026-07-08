@@ -1,7 +1,7 @@
 **INTEGRANTES DEL GRUPO**:
-Lautaro Joaquín Sandoval Gonzalez
-Piero Kalbermatten Francisco
--
+-Lautaro Joaquín Sandoval Gonzalez
+-Piero Kalbermatten Francisco
+-Belen Victoria Ayala Likoff
 -
 Comision B
 Este proyecto consiste en un sistema de reservas de entradas para un cine desarrollado en Python mediante programación estructurada.
