@@ -26,3 +26,4 @@ Para ejecutar el sistema, se debe contar con Python instalado y ejecutar el arch
 python main.py
 
 Una vez iniciado, el programa mostrará un menú interactivo desde el cual se podrán realizar todas las operaciones disponibles.
+**VIDEO DE PRESENTACION DEL SISTEMA**: https://youtu.be/TYM3GNMEnHM
