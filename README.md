@@ -2,7 +2,7 @@
 -Lautaro Joaquín Sandoval Gonzalez
 -Piero Kalbermatten Francisco
 -Belen Victoria Ayala Likoff
--
+-Bobeda Facundo Nicolas
 Comision B
 Este proyecto consiste en un sistema de reservas de entradas para un cine desarrollado en Python mediante programación estructurada.
 El objetivo principal es permitir la gestión básica de funciones de cine, incluyendo la consulta de cartelera, la reserva de entradas y la generación de estadísticas de ventas.
